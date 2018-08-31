@@ -1,3 +1,7 @@
 body{
-    color: lime;
+    color:yellow;
+    font-family:"Copperplate Gothic Light";
+    background-image: url("../images/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
