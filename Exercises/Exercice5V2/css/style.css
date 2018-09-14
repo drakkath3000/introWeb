@@ -10,17 +10,16 @@ nav
 	display : inline-block;
 	width : 15%;
 	border : 1px solid blue;
-	vertical-align : top;
+	vertical-align: top;
 	margin-right : 2%;
 }
 section
 {
 	display : inline-block;
 	border : 1px solid blue ;
-	width: 30%;
+	width: 55%;
 	text-align : center;
-	margin-left : 2%;
-    vertical-align : top;
+	margin-left : 2%
 }
 footer{
 	text-align:center;
