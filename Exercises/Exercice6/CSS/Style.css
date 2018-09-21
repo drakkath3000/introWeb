@@ -11,15 +11,13 @@
     font-size: 15px;
     padding-bottom: 3px;
 }
-input{
-    margin-bottom: 10px;
-    float : right;
-    clear : right;
-}
 label{
-    float: left;
-    clear: left;
+    display : inline-block;
+    width : 25%;
     margin-bottom: 30px;
+}
+span{
+    color : red;
 }
 
 

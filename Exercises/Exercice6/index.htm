@@ -15,11 +15,11 @@
 		<div class="Entete">Entrez les informations du membre</div> <!-- astérisques rouges-->
 		<form action=""method="post">
 			<div>
-				<label for = "nom">Nom*</label>
+				<label for = "nom">Nom<span>*</span></label>
 				<input id = "nom" name = "nom" type = "text" required = "required">
 			</div>
 			<div>
-				<label for = "prénom">Prénom*</label>
+				<label for = "prénom">Prénom<span>*</span></label>
 				<input id = "prénom" name = "prénom" type = "text" required = "required">
 			</div>
 			<div>
@@ -31,31 +31,45 @@
 				<input id = "ville" name = "ville" type = "text">
 			</div>
 			<div>
-				<label for = "téléphone">Téléphone*</label>
+				<label for = "téléphone">Téléphone<span>*</span></label>
 				<input id = "téléphone" name = "téléphone" type = "text" placeholder = "999 999-9999" required = "required">
 			</div>
 			<div>
-				<label for = "inscription">Date d'inscription*</label>
+				<label for = "inscription">Date d'inscription<span>*</span></label>
 				<input id="inscription" name = "inscription" type = "text" placeholder = "jj/ms/aaaa" required = "required">
 			</div>
 			<div>
 				<label for = "fin">Date de fin</label>
 				<input id ="fin" name = "fin" type = "date" placeholder = "aaaa-mm-jj">
 			</div>
-			<div>
-			</div>
-			<div>
-				<label for = "credit">Carte de Crédit*</label>
+            <div>
+                <label for = "sexe">Sexe</label>
+                <input id = "sexe" name = "m" type = "radio" value = "m">Masculin
+                <input id = "sexe" name = "f" type = "radio"value = "f">Féminin
+            </div>
+            <div>
+                <label>Choix</label>
+                <select name="choix">
+                    <option value="carte1">Visa</option>
+                    <option value="carte1">Mastercard</option>
+                </select>
+            </div>
+            <div>
+				<label for = "credit">Carte de Crédit<span>*</span></label>
 				<input id = "credit" name = "credit" type = "text" required = "required" placeholder = "9999 9999 9999 9999">
 			</div>
 			<div>
-				<label for = "password">Mot de passe*</label>
+				<label for = "password">Mot de passe<span>*</span></label>
 				<input id = "password" name = "password" type = "password" required = "required">
 			</div>
 			<div>
 				<label for = "courriel">Courriel</label>
 				<input id = "courriel" name = "courriel" type = "text" placeholder = "aaaaaa@aaaa.aaa">
 			</div>
+            <div>
+                <input type = "submit" value = "Envoyer">
+                <input type = "reset" value = "Réinitialiser">
+            </div>
 		</form>
 	</div>
 </body>

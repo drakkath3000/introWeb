@@ -17,9 +17,10 @@ section
 {
 	display : inline-block;
 	border : 1px solid blue ;
-	width: 55%;
+	width: 30%;
 	text-align : center;
-	margin-left : 2%
+	margin-left : 2%;
+	vertical-align: top;
 }
 footer{
 	text-align:center;
