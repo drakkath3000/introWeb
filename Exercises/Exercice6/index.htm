@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<title>FORMULAIRE</title>
+	<meta  charset="UTF-8">
+	<meta name="title" content="Titre de la page">
+	<meta name="description" content="description de la page">
+	<meta name="author" content="prenon NOM">
+	<meta name="keywords" content="mots-clé1, mots-clé2, ...">
+	<meta name="robots" content="index,follow">
+	<link rel="stylesheet " href ="CSS/Style.css"/>
+</head>
+<body>
+	<div class="form-style">
+		<div class="Entete">Entrez les informations du membre</div> <!-- astérisques rouges-->
+		<form action=""method="post">
+			<div>
+				<label for = "nom">Nom*</label>
+				<input id = "nom" name = "nom" type = "text" required = "required">
+			</div>
+			<div>
+				<label for = "prénom">Prénom*</label>
+				<input id = "prénom" name = "prénom" type = "text" required = "required">
+			</div>
+			<div>
+				<label for = "adresse">Adresse</label>
+				<input id = "adresse" name = "adresse" type = "text" placeholder = "999 rue">
+			</div>
+			<div>
+				<label for = "ville">Ville</label>
+				<input id = "ville" name = "ville" type = "text">
+			</div>
+			<div>
+				<label for = "téléphone">Téléphone*</label>
+				<input id = "téléphone" name = "téléphone" type = "text" placeholder = "999 999-9999" required = "required">
+			</div>
+			<div>
+				<label for = "inscription">Date d'inscription*</label>
+				<input id="inscription" name = "inscription" type = "text" placeholder = "jj/ms/aaaa" required = "required">
+			</div>
+			<div>
+				<label for = "fin">Date de fin</label>
+				<input id ="fin" name = "fin" type = "date" placeholder = "aaaa-mm-jj">
+			</div>
+			<div>
+			</div>
+			<div>
+				<label for = "credit">Carte de Crédit*</label>
+				<input id = "credit" name = "credit" type = "text" required = "required" placeholder = "9999 9999 9999 9999">
+			</div>
+			<div>
+				<label for = "password">Mot de passe*</label>
+				<input id = "password" name = "password" type = "password" required = "required">
+			</div>
+			<div>
+				<label for = "courriel">Courriel</label>
+				<input id = "courriel" name = "courriel" type = "text" placeholder = "aaaaaa@aaaa.aaa">
+			</div>
+		</form>
+	</div>
+</body>
+</html>
