@@ -19,16 +19,17 @@
 		<option value="Mélissa Caron" >Mélissa Caron</option>
 	</select>
 
-	<p class="Align"> Entrez le nombre de jours:<input class="champ" id="txtNbreJours" name="txtNbreJours" value="">  </p> 
-
+	<p class="Align"> Entrez le nombre de jours:<input class="champ" id="txtNbreJours" name="txtNbreJours" value=""></p>
+	<p class="Align"> Entrez le nombre d'heures travaillées du vétérinaire:<input class="champ" id="txtNbreHeures" name="txtNbreHeures" value=""></p>
 	<!-- Case à cocher -->
 	<p class="Align">Service de toilettage<input type="checkbox" id="chkServ" name="chkServ">  </p> 
 
 	<!-- Case à cocher -->
 	<p class="Align">
-	Chien<input type="radio" name="radChoix" checked=true id="radChien">
-	Chat<input type="radio" name="radChoix" id="radChat">
+	Chien<input type="radio" name="radChoix" checked=true id="radChien" onclick="radChien_onclick()">
+	Chat<input type="radio" name="radChoix" id="radChat" onclick="radChat_onclick()">
 	</p>
+	<img id ="imgMeme">
 
 	<!-- label affichage -->
 	<p class="Align" id="lblMessage" name="lblMessage">le résultat s'affiche ici </p>
