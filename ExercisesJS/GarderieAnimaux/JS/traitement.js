@@ -1,11 +1,20 @@
+var Veterinaire, TypeAnimal, NbreJrs, Tarif, Montant, MontantTaxes, Service,Rabais, Salaire, NbreHeures;
 function btnCalculer_onclick()
 {
-    var Veterinaire, TypeAnimal, NbreJrs, Tarif, Montant, MontantTaxes, Service,Rabais, Salaire, NbreHeures;
-
+    saisirInfos();
+    calculerPrixGardiennage();
+    calculerPrixVeterinaire();
+    calculerPrixTotal();
+    produireMessage();
+}
+function saisirInfos()
+{
     NbreJrs = parseInt(document.getElementById("txtNbreJours").value);
     Veterinaire = document.getElementById("lstVeterinaire").value;
     NbreHeures = parseInt(document.getElementById("txtNbreHeures").value);
-
+}
+function calculerPrixGardiennage()
+{
     if (document.getElementById("radChien").checked == true)
     {
         TypeAnimal = "Chien";
@@ -33,7 +42,9 @@ function btnCalculer_onclick()
     {
         Rabais = 0.15;
     }
-
+}
+function calculerPrixVeterinaire()
+{
     switch(Veterinaire)
     {
         case "Audrey Bouchard": Salaire = 25;
@@ -45,7 +56,9 @@ function btnCalculer_onclick()
         case "Mélissa Caron": Salaire = 45;
         break;
     }
-
+}
+function calculerPrixTotal()
+{
     Montant = NbreJrs * Tarif + Salaire * NbreHeures;
     Montant = Montant - Rabais * Montant;
 
@@ -54,7 +67,9 @@ function btnCalculer_onclick()
         Montant = Montant + 5;
     }
     MontantTaxes = Montant + 0.05 * Montant +  0.09975 * Montant;
-
+}
+function produireMessage()
+{
     if (document.getElementById("chkServ").checked == true)
     {
         Service = "avec";
