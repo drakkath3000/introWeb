@@ -5,11 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/ExercisesJS/Exercices -  Si composé/JS/traitement12.js" line="17" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75f2e9aa-6c4b-4c51-8e11-54a75e1c5d39" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/Traitement.js" beforeDir="false" afterPath="$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/JS/Traitement.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="75f2e9aa-6c4b-4c51-8e11-54a75e1c5d39" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,29 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/index.html">
+      <file leaf-file-name="CalculatriceV1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExercisesJS/CalculatriceV1/CalculatriceV1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="116" selection-start-line="14" selection-start-column="99" selection-end-line="14" selection-end-column="116" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Traitement.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/JS/Traitement.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="289">
+              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="traitement.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesJS/GarderieAnimaux/JS/traitement.js">
+        <entry file="file://$PROJECT_DIR$/ExercisesJS/CalculatriceV1/JS/traitement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="66" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="66" />
+            <state relative-caret-position="612">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -102,6 +89,8 @@
         <option value="$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/Traitement.js" />
         <option value="$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/index.html" />
         <option value="$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/JS/Traitement.js" />
+        <option value="$PROJECT_DIR$/ExercisesJS/CalculatriceV1/CalculatriceV1.html" />
+        <option value="$PROJECT_DIR$/ExercisesJS/CalculatriceV1/JS/traitement.js" />
       </list>
     </option>
   </component>
@@ -126,6 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,6 +151,19 @@
               <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="introweb" type="462c0819:PsiDirectoryNode" />
               <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="introweb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
+              <item name="CalculatriceV1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="introweb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
+              <item name="CalculatriceV1" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
@@ -281,7 +284,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -336,6 +338,7 @@
       <workItem from="1541688748326" duration="4701000" />
       <workItem from="1541787108932" duration="5796000" />
       <workItem from="1542315426839" duration="1666000" />
+      <workItem from="1542392169254" duration="6665000" />
     </task>
     <task id="LOCAL-00001" summary="Premier site">
       <created>1535134321503</created>
@@ -509,7 +512,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74725000" />
+    <option name="totallyTimeSpent" value="81390000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -521,10 +524,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49947202" visible="true" weight="0.27239582" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947202" visible="true" weight="0.27197266" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32946146" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -588,20 +591,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="8 novembre" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
-          <caret line="89" column="4" selection-start-line="89" selection-start-column="4" selection-end-line="89" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/legends.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -900,6 +889,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesJS/GarderieAnimaux/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="66" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/JS/Traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -907,17 +910,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesJS/GarderieAnimaux/JS/traitement.js">
+    <entry file="file://$PROJECT_DIR$/ExercisesJS/CalculatriceV1/JS/traitement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="66" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="66" />
+        <state relative-caret-position="612">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/JS/Traitement.js">
+    <entry file="file://$PROJECT_DIR$/ExercisesJS/CalculatriceV1/CalculatriceV1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        <state relative-caret-position="289">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
         </state>
       </provider>
     </entry>
