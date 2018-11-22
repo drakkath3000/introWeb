@@ -1,5 +1,6 @@
-var Nbre1, Nbre2, Operateur, Nbre3;
-TabNomId = new array("txtNbre1","txtNbre2","txtOperateur");
+var Nbre1, Nbre2, Operateur, Nbre3, TabNomId;
+TabNomId = new Array("txtNbre1", "txtNbre2", "txtOperateur");
+
 
 function btnCalculer_onclick()
 {
@@ -10,33 +11,37 @@ function btnCalculer_onclick()
     }
 
 }
-function valideChampsObligatoires()
-{
+function valideChampsObligatoires() {
 
     var Valide;
 
-    if ((valideExiste("txtNbre1") === true) && (valideExiste("txtNbre2") === true) && (valideExiste("txtOperateur") === true))
-    {
-        Valide = true;
-    }
-    return Valide;
+
+        if ((valideExiste("txtNbre1") === true) && (valideExiste("txtNbre2") === true) && (valideExiste("txtOperateur") === true))
+        {
+            Valide = true;
+        }
+        return Valide;
+
 }
 
-function valideExiste(Id)
-{
-    var Valide;
+function valideExiste(Id) {
+    var Valide, i;
+    i=0;
 
-    if (document.getElementById(Id).value == "")
+    for (i = 0; i < TabNomId.length; i++)
     {
-        document.getElementById(Id).style.backgroundColor = "red";
-        Valide = false;
+        if (document.getElementById(Id).value == "")
+        {
+            document.getElementById(Id).style.backgroundColor = "red";
+            Valide = false;
+        }
+        else
+            {
+            document.getElementById(Id).style.backgroundColor = "white";
+            Valide = true;
+        }
+        return Valide;
     }
-    else
-    {
-        document.getElementById(Id).style.backgroundColor = "white";
-        Valide = true;
-    }
-    return Valide;
 }
 function traiteInfos()
 {
@@ -57,8 +62,4 @@ function traiteInfos()
     }
 
     document.getElementById("lblMessage").innerHTML = Nbre3;
-}
-function calculer()
-{
-
 }
