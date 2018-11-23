@@ -25,11 +25,8 @@ function valideChampsObligatoires() {
 }
 
 function valideExiste(Id) {
-    var Valide, i;
-    i=0;
+    var Valide;
 
-    for (i = 0; i < TabNomId.length; i++)
-    {
         if (document.getElementById(Id).value == "")
         {
             document.getElementById(Id).style.backgroundColor = "red";
@@ -41,7 +38,7 @@ function valideExiste(Id) {
             Valide = true;
         }
         return Valide;
-    }
+
 }
 function traiteInfos()
 {
