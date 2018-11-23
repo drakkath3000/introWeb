@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75f2e9aa-6c4b-4c51-8e11-54a75e1c5d39" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ExercisesJS/CalculatriceV1/JS/traitement.js" beforeDir="false" afterPath="$PROJECT_DIR$/ExercisesJS/CalculatriceV1/JS/traitement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,29 +20,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CalculatriceV1.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExercisesJS/CalculatriceV1/CalculatriceV1.html">
+      <file leaf-file-name="Exercices expressions régulières- Etu.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices expressions régulières- Etu/Exercices expressions régulières- Etu.htm">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="traitement.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices expressions régulières- Etu/JS/traitement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="68">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="traitement.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesJS/CalculatriceV1/JS/traitement.js">
+      <file leaf-file-name="traitement13.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices  - Choisir Parmi/JS/traitement13.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Traitement.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/JS/Traitement.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="408">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -102,6 +98,7 @@
         <option value="$PROJECT_DIR$/ExercisesJS/Exercice _ Joueurs/JS/Traitement.js" />
         <option value="$PROJECT_DIR$/ExercisesJS/CalculatriceV1/CalculatriceV1.html" />
         <option value="$PROJECT_DIR$/ExercisesJS/CalculatriceV1/JS/traitement.js" />
+        <option value="$PROJECT_DIR$/ExercisesJS/Exercices expressions régulières- Etu/JS/traitement.js" />
       </list>
     </option>
   </component>
@@ -167,85 +164,14 @@
               <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="introweb" type="462c0819:PsiDirectoryNode" />
               <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="CalculatriceV1" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercices expressions régulières- Etu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="introweb" type="462c0819:PsiDirectoryNode" />
               <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="CalculatriceV1" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercices expressions régulières- Etu" type="462c0819:PsiDirectoryNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introweb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="CinéClub - V1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introweb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="CinéClub - V1" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introweb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="CinéClub - V1" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introweb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="CinéClub - V2 Etu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introweb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="CinéClub - V2 Etu" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introweb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice _ Joueurs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introweb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice _ Joueurs" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introweb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introweb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introweb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercice9" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introweb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercices -  Si composé" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
@@ -258,19 +184,6 @@
               <item name="introweb" type="462c0819:PsiDirectoryNode" />
               <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
               <item name="Exercices  - Choisir Parmi" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introweb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="GarderieAnimaux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="introweb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExercisesJS" type="462c0819:PsiDirectoryNode" />
-              <item name="GarderieAnimaux" type="462c0819:PsiDirectoryNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -350,7 +263,10 @@
       <workItem from="1541787108932" duration="5796000" />
       <workItem from="1542315426839" duration="1666000" />
       <workItem from="1542392169254" duration="6665000" />
-      <workItem from="1542863992909" duration="1179000" />
+      <workItem from="1542863992909" duration="1451000" />
+      <workItem from="1542895206557" duration="3500000" />
+      <workItem from="1542938684423" duration="946000" />
+      <workItem from="1542941641728" duration="1868000" />
     </task>
     <task id="LOCAL-00001" summary="Premier site">
       <created>1535134321503</created>
@@ -520,11 +436,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541693414092</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="calculatrice">
+      <created>1542865455404</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1542865455404</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82569000" />
+    <option name="totallyTimeSpent" value="89155000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -536,16 +459,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="984" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947202" visible="true" weight="0.271875" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49947202" visible="true" weight="0.27135417" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32946146" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.15522704" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.15428571" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" sideWeight="0.500528" side_tool="true" weight="0.27291667" />
       <window_info anchor="bottom" id="Terminal" order="9" />
@@ -600,23 +523,10 @@
     <MESSAGE value="Multiples javascripts" />
     <MESSAGE value="exercices 10 a 14" />
     <MESSAGE value="8 novembre" />
-    <option name="LAST_COMMIT_MESSAGE" value="8 novembre" />
+    <MESSAGE value="calculatrice" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculatrice" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/legends.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
-          <caret line="89" selection-start-line="89" selection-end-line="89" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/legends.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
@@ -789,13 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesJS/CinéClub - V2 Etu/JS/traitement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
-          <caret line="44" column="68" selection-start-line="44" selection-start-column="68" selection-end-line="45" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesJS/CinéClub - V1/index.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -817,24 +720,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices -  Si composé/JS/traitement10.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="60" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices -  Si composé/index#11.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices -  Si composé/JS/traitement11.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="66" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -852,31 +741,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices  - Choisir Parmi/ExerciceChoisirParmi#14.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices  - Choisir Parmi/JS/traitement14.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices -  Si composé/JS/traitement12.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="66" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices  - Choisir Parmi/JS/traitement13.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -924,15 +792,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesJS/CalculatriceV1/JS/traitement.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        <state relative-caret-position="288">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesJS/CalculatriceV1/CalculatriceV1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices -  Si composé/JS/traitement10.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="60" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices -  Si composé/JS/traitement11.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="66" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices -  Si composé/JS/traitement12.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="66" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesJS/CinéClub - V2 Etu/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="68" selection-start-line="44" selection-start-column="68" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices  - Choisir Parmi/ExerciceChoisirParmi#14.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices expressions régulières- Etu/Exercices expressions régulières- Etu.htm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices  - Choisir Parmi/JS/traitement13.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesJS/Exercices expressions régulières- Etu/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
