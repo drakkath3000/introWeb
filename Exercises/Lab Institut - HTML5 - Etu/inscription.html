@@ -39,25 +39,29 @@
 			<!--fin Nav-->
 			<h1>Entrez les informations du membre</h1>
 			<!--boîte de texte-->
-			<form method="get" id="frmMembre" action="Reponse.htm" onsubmit = "return frmMembre_onsubmit()" onsubmit = "return reinitialiser_onsubmit()">
+		<form method="get" id="frmMembre" action="Reponse.htm" onsubmit = "return confirm('Envoyer?')" >
 			<label id="lblMessageErreur"></label>
-			<div><label>Nom<span>*</span></label><input type="text" id="txtNom" name="txtNom"  size="40" ></div>
-			<div><label>Prénom<span>*</span></label><input type="text" id="txtPrenom" name="txtPrenom" size="40" ></div>
-			<div><label>Adresse<span>*</span></label><input type="text" id="txtAdresse" name="txtAdresse" size="40" ></div>
-			<div><label>Ville<span>*</span></label><input type="text" id="txtVille" name="txtVille" size="40" ></div>
-			<div><label>Code postal</label><input type="text" id="txtCodePostal" name="txtCodePostal" size="15" ></div>
-			<div><label for="tel">Téléphone<span>*</span></label><input type="text" id="txtTel" name="txtTel" size="13" class="obligatoire" value="" ></div>
-			<div><label>Code permanant</label><input type="text" id="txtCodePerm" name="txtCodePerm" size="12" ></div>
-			<label for="type">Catégorie</label><select id="type" name="type">
+			<div><label>Nom<span>*</span></label><input type="text" id="txtNom" name="txtNom" size="40" maxlength = "120" required pattern = "^\D+-?\D+$"></div>
+			<div><label>Prénom<span>*</span></label><input type="text" id="txtPrenom" name="txtPrenom" size="40" maxlength = "120" required pattern = "^\D+-?\D+$"></div>
+			<div><label>Adresse<span>*</span></label><input type="text" id="txtAdresse" name="txtAdresse" size="40" maxlength = "120" required pattern = "^\d+\s[A-z]+\s[A-z]+"></div>
+			<div><label>Ville<span>*</span></label><input type="text" id="txtVille" name="txtVille" size="40" maxlength = "120" pattern = "^\D+-?\D+$"></div>
+			<div><label>Code postal</label><input type="text" id="txtCodePostal" name="txtCodePostal" size="15" placeholder = "A1B 2C3" maxlength="7" pattern = "^\D\d\D \D\d\D$|^$"></div>
+			<div><label for="tel">Téléphone<span>*</span></label><input type="tel" id="txtTel" name="txtTel" size="13" class="obligatoire" value="" required placeholder = "123-456-7890" pattern = "^\d{3}-\d{3}-\d{4}$" maxlength = "12"></div>
+			<div><label>Code permanant</label><input type="text" id="txtCodePerm" name="txtCodePerm" size="12" placeholder = "TREP01019812" pattern = "^\D{4}\d{8}$" maxlength = "12"></div>
+			<label for="type">Catégorie</label><select id="lstType" name="type">
 				<option value="adulte" selected>adulte</option>
 				<option value="étudiant">étudiant</option>
 				<option value="retraité">retraité</option>
 			</select>
-			<div id="Boutons"><input class="bouton" value="Envoyer" id="btnEnvoyer" type="submit" />   <input class="bouton" type="reset"  value="Réintialiser" onclick = ("return confirm('Voulez-vous vraiment réinitialiser?')")/></div>
+			<div id="Boutons"><input class="bouton" value="Envoyer" id="btnEnvoyer" type="submit"/>   <input class="bouton" type="reset" value="Réintialiser" onclick="return confirm('Désirez-vous réintialiser?')"/></div>
+
 		</form>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/5uD31YJkJj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			<!--ligne de séparation-->
 			<hr>
-		</section>			
+		</section>
+		
+				
 		<!--fin section-->
 		</container>
 		<!--fin container-->

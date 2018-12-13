@@ -7,6 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="75f2e9aa-6c4b-4c51-8e11-54a75e1c5d39" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExercisesJS/Lab Institut - Etu - Suite/inscription.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExercisesJS/Lab Institut - Etu - Suite/inscription.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,24 +22,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="inscription.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExercisesJS/Lab Institut - Etu - Suite/inscription.html">
+        <entry file="file://$PROJECT_DIR$/Exercises/Lab Institut - HTML5 - Etu/inscription.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="55" column="188" selection-start-line="55" selection-start-column="188" selection-end-line="55" selection-end-column="188" />
+            <state relative-caret-position="672">
+              <caret line="58" column="214" selection-start-line="58" selection-start-column="214" selection-end-line="58" selection-end-column="214" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reponse.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExercisesJS/Lab Institut - Etu - Suite/Reponse.htm">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="traitement.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ExercisesJS/Lab Institut - Etu - Suite/JS/traitement.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2091">
-              <caret line="123" column="31" selection-start-line="123" selection-start-column="31" selection-end-line="123" selection-end-column="31" />
+            <state relative-caret-position="440">
+              <caret line="116" column="31" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -103,6 +99,7 @@
         <option value="$PROJECT_DIR$/ExercisesJS/Lab Institut - Etu/JS/traitement.js" />
         <option value="$PROJECT_DIR$/ExercisesJS/Lab Institut - Etu - Suite/JS/traitement.js" />
         <option value="$PROJECT_DIR$/ExercisesJS/Lab Institut - Etu - Suite/inscription.html" />
+        <option value="$PROJECT_DIR$/Exercises/Lab Institut - HTML5 - Etu/inscription.html" />
       </list>
     </option>
   </component>
@@ -139,6 +136,12 @@
               <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
               <item name="introweb" type="462c0819:PsiDirectoryNode" />
               <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="introweb" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab Institut - HTML5 - Etu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="introweb" type="b2602c69:ProjectViewProjectNode" />
@@ -296,7 +299,8 @@
       <workItem from="1542996782315" duration="4592000" />
       <workItem from="1543468516653" duration="7770000" />
       <workItem from="1543602373798" duration="5927000" />
-      <workItem from="1544078885603" duration="641000" />
+      <workItem from="1544078885603" duration="995000" />
+      <workItem from="1544724995941" duration="3282000" />
     </task>
     <task id="LOCAL-00001" summary="Premier site">
       <created>1535134321503</created>
@@ -494,11 +498,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543476219358</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Lab Institut 2">
+      <created>1544079714060</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1544079714060</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108085000" />
+    <option name="totallyTimeSpent" value="111721000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -510,16 +521,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49815497" weight="0.2705078" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.27001953" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32946146" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.14131501" />
+      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.14033367" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" sideWeight="0.501845" side_tool="true" weight="0.27083334" />
       <window_info anchor="bottom" id="Terminal" order="9" />
@@ -534,28 +545,6 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.2705078" />
-      <window_info id="Structure" order="1" sideWeight="0.501845" side_tool="true" weight="0.27083334" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32946146" />
-      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.14131501" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.32946146" />
-      <window_info id="Favorites" order="2" sideWeight="0.500528" side_tool="true" weight="0.27291667" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -602,7 +591,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Lab Institut 2" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercises/Exercise 2/index.html" />
     <entry file="file://$PROJECT_DIR$/Exercises/Exercise 1/images/maxresdefault.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -910,20 +898,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExercisesJS/Lab Institut - Etu - Suite/JS/traitement.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2091">
-          <caret line="123" column="31" selection-start-line="123" selection-start-column="31" selection-end-line="123" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesJS/Lab Institut - Etu - Suite/Reponse.htm">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ExercisesJS/Lab Institut - Etu - Suite/inscription.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="55" column="188" selection-start-line="55" selection-start-column="188" selection-end-line="55" selection-end-column="188" />
+        <state relative-caret-position="369">
+          <caret line="46" column="110" selection-start-line="46" selection-start-column="110" selection-end-line="46" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExercisesJS/Lab Institut - Etu - Suite/JS/traitement.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="116" column="31" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/Lab Institut - HTML5 - Etu/inscription.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="58" column="214" selection-start-line="58" selection-start-column="214" selection-end-line="58" selection-end-column="214" />
         </state>
       </provider>
     </entry>
